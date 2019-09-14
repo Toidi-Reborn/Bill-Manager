@@ -1,0 +1,1 @@
+["Menards", "BP", "RZ", "Chase", "Discover", "BMO", "CapitalOne", "Mortgage"]
